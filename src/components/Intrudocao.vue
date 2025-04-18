@@ -8,8 +8,8 @@
             <div class="absolute -inset-4  rounded-3xl blur-lg transform rotate-1"></div>
             <div class="relative p-2 rounded-3xl border-4 border-transparent transition-all duration-500">
               <img 
-                src="../assets/logos/logo-fleetwize.png" 
-                alt="Logo Fleet Wize" 
+                src="../assets/logos/logo-fleetWise.png" 
+                alt="Logo Fleet Wise" 
                 class="w-4/5 mx-auto h-auto object-contain transition-transform duration-700 ease-out group-hover:scale-105"
                 data-aos="fade-right"
                 data-aos-delay="100"
@@ -27,16 +27,16 @@
           >
             <h1 class="text-center md:text-left text-5xl sm:text-6xl lg:text-7xl font-bold leading-tight tracking-tight">
               <span class="inline-block bg-clip-text text-transparent bg-gradient-to-r from-[#f97316] via-[#15803d] to-[#4b5563]">
-                Fleet Wize
+                Fleet Wise
               </span>
             </h1>
 
             <p class="text-lg md:text-xl text-[#4b5563] leading-relaxed">
-              A <strong class="font-semibold text-[#15803d]">Fleet Wize</strong> é um software desenvolvido especialmente para empresas do setor de logística que ainda não possuem um painel integrado de dados. Com uma plataforma visual moderna e intuitiva, oferecemos uma solução completa para a gestão de coletas, entregas, rastreamento de pedidos e monitoramento inteligente de operações.
+              A <strong class="font-semibold text-[#15803d]">Fleet Wise</strong> é um software desenvolvido especialmente para empresas do setor de logística que ainda não possuem um painel integrado de dados. Com uma plataforma visual moderna e intuitiva, oferecemos uma solução completa para a gestão de coletas, entregas, rastreamento de pedidos e monitoramento inteligente de operações.
             </p>
 
             <p class="text-lg md:text-xl text-[#4b5563] leading-relaxed">
-              Nosso objetivo é simplificar processos, melhorar o fluxo financeiro e oferecer uma visão estratégica sobre a operação logística. A <strong class="text-[#f97316]">Fleet Wize</strong> nasce da vontade de impulsionar a transformação digital no setor de transportes, aliando tecnologia de ponta a uma experiência acessível e eficiente de ponta a ponta.
+              Nosso objetivo é simplificar processos, melhorar o fluxo financeiro e oferecer uma visão estratégica sobre a operação logística. A <strong class="text-[#f97316]">Fleet Wise</strong> nasce da vontade de impulsionar a transformação digital no setor de transportes, aliando tecnologia de ponta a uma experiência acessível e eficiente de ponta a ponta.
             </p>
 
             <!-- CTA -->
