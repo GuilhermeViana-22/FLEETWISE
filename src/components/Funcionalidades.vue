@@ -2,7 +2,7 @@
   <section id="features" class="py-20 bg-gradient-to-b from-white-100 via-white to-white-100">
     <div class="container mx-auto px-6">
       <div class="text-center mb-16">
-        <h2 class="text-4xl font-bold text-gray-800 mb-4 animate-fadeInUp">Funcionalidades Completas</h2>
+        <h2 class="text-4xl font-bold text-gray-800 mb-4 animate-fadeInUp">Funcionalidades completas</h2>
         <p class="text-lg text-gray-500 max-w-2xl mx-auto animate-fadeInUp animate-delay-100">
           Tudo que você precisa para gerenciar sua operação de transporte com eficiência
         </p>
