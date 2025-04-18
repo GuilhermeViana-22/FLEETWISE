@@ -8,15 +8,12 @@ import Footer from '@/components/Footer.vue';
 import Informacoes from '@/components/Informacoes.vue';
 import WhatsAppButton from '@/components/WhatsAppButton.vue';
 import Embesed from '@/components/embesed/Embesed.vue';
-
 import Dashboard from '@/components/Dashboard.vue';
 </script>
 <template>
   <div class="relative">
- 
      <Navbar />
     <Banner />
-    
     <div class="relative z-10">
       <Intrudocao />
       <Funcionalidades  />
@@ -25,10 +22,7 @@ import Dashboard from '@/components/Dashboard.vue';
       <Embesed />
       <Informacoes />
       <Footer />
-
     </div>
-    
     <WhatsAppButton />
-
   </div>
 </template>
