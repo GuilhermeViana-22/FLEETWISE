@@ -8,7 +8,7 @@
             <div class="absolute -inset-4  rounded-3xl blur-lg transform rotate-1"></div>
             <div class="relative p-2 rounded-3xl border-4 border-transparent transition-all duration-500">
               <img 
-                src="../assets/logos/logo-fleetWise.png" 
+                src="../assets/logos/logo-fleetwise.png" 
                 alt="Logo Fleet Wise" 
                 class="w-4/5 mx-auto h-auto object-contain transition-transform duration-700 ease-out group-hover:scale-105"
                 data-aos="fade-right"
